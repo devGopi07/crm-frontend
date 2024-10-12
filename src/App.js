@@ -11,7 +11,7 @@ import ForgotPassword from "./components/ForgotPassword";
 import CreateAccount from "./components/CreateAccount";
 import ResetPassword from "./components/ResetPassword";
 
-export const url="https://crm-backend-6syq.onrender.com" 
+export const url="https://crm-backend-fuub.onrender.com" 
 
 
 
